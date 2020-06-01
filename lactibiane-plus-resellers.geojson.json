@@ -1,0 +1,7859 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9011975,47.0588677 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Marti",
+    "Address":"Rue Frédérique Soguel 4 2053 Cernier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2294986,46.0966911 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Croix de Coeur",
+    "Address":"Route des Creux 4 1936 Verbier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.072916,46.1016897 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Centrale - C. Dubosson",
+    "Address":"Place Centrale 4 1920 Martigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1662907,46.2009577 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Gare des Eaux Vives",
+    "Address":"Avenue de la Gare des Eaux Vives 7 1207 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2265482,46.385732 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Saules",
+    "Address":"Chemin des Saules 2C 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1824248,46.1681786 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Veyrier SA",
+    "Address":"Route de Veyrier 255 1255 Veyrier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1474882,46.1920948 ]
+    },
+    "properties": {
+    "Name":"Pharma24 SA",
+    "Address":"Boulevard de la Cluse 38 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1517763,46.8019741 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Pérolles 6 Thiémard",
+    "Address":"Boulevard de Pérolles 6 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.103452,46.1917937 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Munier",
+    "Address":"Av. des Grandes-Communes 27 1213 Onex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2291397,46.0957189 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Internationale",
+    "Address":"Place Centrale 4 1936 Verbier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1606845,46.2028211 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du 31 Décembre",
+    "Address":"Rue du 31 Décembre 43 1207 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.375464,47.361988 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Val Terbi",
+    "Address":"Place des Mouleurs 2 2822 Courroux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9260013,46.9929006 ]
+    },
+    "properties": {
+    "Name":"PharmaciePlus City Centre",
+    "Address":"Route de l'Ecluse 30 2000 Neuchâtel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1278413,46.1800484 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - La Praille",
+    "Address":"Centre commercial & de Loisirs 1212 Grand Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1600055,46.2006127 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Eaux-Vives 2000",
+    "Address":"Centre Eaux-Vives 2000 1207 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1313483,46.2085772 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de l'île Verte",
+    "Address":"Rue de Lyon 59 1203 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0556465,46.6173042 ]
+    },
+    "properties": {
+    "Name":"Pharmacie-Parfumerie-Solarium de la Poste",
+    "Address":"Rue Nicolas Glasson 7 1630 Bulle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8898527,46.9865289 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Gauchat",
+    "Address":"Place de la Fontaine 4 2034 Peseux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1364803,46.1890498 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Epinettes",
+    "Address":"Rue des Epinettes 20 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2766202,46.4168231 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Mauverney SA",
+    "Address":"Rue Mauverney 24 1196 Gland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6111379,46.5310793 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Valency",
+    "Address":"Route de Prilly 3 1004 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9102402,46.4316153 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Jazz",
+    "Address":"Grand Rue 5 1820 Montreux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1131166,46.2187665 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Balexert",
+    "Address":"Avenue Louis Casaï 27 1211 Genève 28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6128956,46.5268946 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus de Prelaz",
+    "Address":"Avenue de Morges 60 1004 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1616375,46.1995445 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Roches SA",
+    "Address":"Chemin de Roches 1 1208 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1924273,46.3157744 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Coppet",
+    "Address":"Grand'Rue 46 1296 Coppet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1091564,46.2370097 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Aéroport",
+    "Address":"Aéroport/ Niveau Départ 1215 Genève 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2514277,47.312107 ]
+    },
+    "properties": {
+    "Name":"Drogerie Stutz",
+    "Address":"Kreuzrain 9 5614 Sarmenstorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1580419,46.1876548 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Cité Universitaire SA",
+    "Address":"Chemin des Clochettes 8 A 1206 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1522961,46.201623 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Grosclaude",
+    "Address":"Cours de Rive 2 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1267262,46.815768 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Givisiez",
+    "Address":"Route Jo Siffert 4 1762 Givisiez"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4565804,46.4823286 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de St-Prex",
+    "Address":"Rue de la Gare 1 1162 St-Prex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6291587,46.5210707 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus du Flon",
+    "Address":"Voie du Chariot 6 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1220246,46.1750494 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Noyer",
+    "Address":"Chemin des Palettes 3 1212 Grand-Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1581413,46.2037962 ]
+    },
+    "properties": {
+    "Name":"Pharmacie EAUXVIVES-LAC",
+    "Address":"Rue des Eaux-Vives 16 1207 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0449654,47.3928551 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Färbergässli 10 5000 Aarau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.94753,46.2522037 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus de Lavallaz",
+    "Address":"Place de Tübingen 4 1870 Monthey 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1311183,46.2161139 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus du Grand-Pré SA",
+    "Address":"Rue du Grand-Pré 76 1202 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1450527,46.1972128 ]
+    },
+    "properties": {
+    "Name":"Pharmacie St-Léger SA",
+    "Address":"Boulevard des Philosophes 15 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9849397,47.013611 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Saint-Blaise",
+    "Address":"Grand'Rue 11 2072 St- Blaise"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4972218,46.5107976 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Square des Charpentiers",
+    "Address":"Rue des Charpentiers 6 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9514923,46.0039687 ]
+    },
+    "properties": {
+    "Name":"Farmacia Internazionale Bordoni SA",
+    "Address":"Piazza Riforma 10 6900 Lugano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8309452,47.1058112 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus du Versoix",
+    "Address":"Rue de l'Industrie 1 2303 La Chaux-de-Fonds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1533841,46.1965394 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Tranchées",
+    "Address":"Boulevard des Tranchées 24 1206 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1549591,46.2551769 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Bellevue",
+    "Address":"Route de Lausanne 337 1293 Bellevue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1404664,46.2021997 ]
+    },
+    "properties": {
+    "Name":"Pharmacie EAUXVIVES-FAVON",
+    "Address":"Boulevard Georges Favon 15 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1612281,46.1945138 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Parc Bertrand",
+    "Address":"Avenue Krieg 44 Bis 1208 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9496525,46.2519087 ]
+    },
+    "properties": {
+    "Name":"Droguerie Centrale Garrone",
+    "Address":"Avenue de l'Industrie 8 1870 Monthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.133744,46.1710249 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de la Chapelle",
+    "Address":"Chemin de Compostelle 7 1212 Grand Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3075,47.4719609 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Weite Gasse8 5400 Baden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5888184,47.5561565 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Falknerstrassre 12 4001 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4545861,46.9589507 ]
+    },
+    "properties": {
+    "Name":"Reformhaus Ruprecht Bern-Breitenrainplatz",
+    "Address":"Breitenrainplatz 36 3014 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4401614,46.9477989 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio",
+    "Address":"Christoffel-Unterführung 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4411413,46.9468101 ]
+    },
+    "properties": {
+    "Name":"Reformhaus Ruprecht Bern-Christoffelgasse",
+    "Address":"Christoffelgasse 7 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.374064,46.944989 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Westside Center 3027 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5319859,46.8507835 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Quaserstr. 15 7000 Chur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.287188,47.074458 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Emmen Center 6020 Emmenbrücke"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.2801503,47.385135 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Oberdorfstr. 22 9100 Herisau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.83774,47.2314449 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio",
+    "Address":"Molkereistrasse 16 8645 Jona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9079047,47.352062 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Vital Punkt",
+    "Address":"Bahnhofstrasse 22 4600 Olten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.795848,46.170392 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Via Toretta 3 6600 Locarno"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3051453,47.0519534 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Weinmarkt 1 6004 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6432723,47.2693378 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Dorfstr. 94 8706 Meilen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.8183617,47.2277295 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Halsgasse 20 8640 Rapperswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4920966,47.0163628 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Industriestrasse 10/Shoppyland 3321 Schönbühl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.016081,45.8462807 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Centro d'Acquisti 6836 Serfontana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3775491,47.4249134 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Spisergasse 13 9000 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3710265,47.4223711 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Vital Punkt",
+    "Address":"St.Leonhardstrasse 33 9000 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5354908,47.2074512 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Friedhofplatz 5 4502 Solothurn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5625137,47.2971927 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Gotthardstr. 44 8800 Thalwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6273955,46.7588496 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio",
+    "Address":"Bälliz 31 3600 Thun"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.669413,47.2293824 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Rosenbergstr. 1 8820 Wädenswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3271308,47.4654617 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio / Naturata",
+    "Address":"Landstrasse 102 5430 Wettingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7279908,47.4996937 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Marktgasse 62 8400 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5547087,47.3644388 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Forchstr. 2 8008 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.536207,47.374597 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio",
+    "Address":"Löwenstrasse 30 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5383585,47.3783642 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio",
+    "Address":"ShopVille Zürich Hauptbahnhof 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5308938,47.3733818 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus Egli Bio",
+    "Address":"Badenerstrasse 9 8004 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5196145,47.3697901 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Birmensdorferstr. 145 8003 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5750653,47.3377264 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Alte Landstr. 92 8702 Zollikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5146068,47.1727041 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Alpenstr. 11 6300 Zug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.539717,47.3726949 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Rennweg 15 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5351544,47.3672655 ]
+    },
+    "properties": {
+    "Name":"Müller Reformhaus",
+    "Address":"Stockerstrasse 38 8002 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3451774,47.3593831 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Jura SA",
+    "Address":"Route de Rossemaison 48 2800 Delémont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1401155,46.1848768 ]
+    },
+    "properties": {
+    "Name":"Pharmacie St-Victor SA",
+    "Address":"Rue St-Victor 24 1227 Carouge (GE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.143899,46.204025 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Cité",
+    "Address":"Rue de la Confédération 3 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3500658,47.3624239 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Cattin-Gare SA",
+    "Address":"Place de la Gare 18 2800 Delémont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.098369,47.2228599 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus Schneeberger",
+    "Address":"Grand Rue 161 2720 Tramelan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.799893,46.667839 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Moudonnoise",
+    "Address":"Avenue de la Gare 1 A 1510 Moudon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4967671,46.5079939 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire de Morges",
+    "Address":"Grand-Rue 100 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2166888,46.4353914 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Genolier",
+    "Address":"Route de la Gare 5 1272 Genolier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1556252,46.1945549 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Champel",
+    "Address":"Rue de l'Athénée 39 1206 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1432677,46.2069912 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Grenus SA",
+    "Address":"Place de Grenus 12 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1418819,46.1840171 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Marché",
+    "Address":"Place du Marché 1 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1460053,46.1964874 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Philosophes",
+    "Address":"Boulevard des Philosophes 16 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1429855,46.1894622 ]
+    },
+    "properties": {
+    "Name":"Pharmacie La Clef d'Arve",
+    "Address":"Rue de Carouge 110 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.222156,46.3898464 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus du Forum",
+    "Address":"Route de Signy 45 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1436004,46.1854055 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Carouge",
+    "Address":"Av. Cardinal-Mermillod 36 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8252756,47.100668 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Pillonel SA",
+    "Address":"Rue du Balancier 7 et angle Rue Serre 61 2300 La Chaux-de-Fonds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1491349,46.2005538 ]
+    },
+    "properties": {
+    "Name":"Nouvelle Pharmacie du Bourg-de-Four",
+    "Address":"Place du Bourg-de-Four 10-12 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6194949,46.5307431 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Bergières",
+    "Address":"Av. des Bergières 42 1004 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6374493,46.5159529 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Lardelli",
+    "Address":"Av. Juste-Olivier 5 1006 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1355425,46.2139258 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Grottes & Beaulieu",
+    "Address":"Rue Antoine-Carteret 42 1202 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1966287,46.2380571 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Vésenaz Centre Manor",
+    "Address":"Rte de Thonon 40 1222 Vésenaz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7229792,47.1966094 ]
+    },
+    "properties": {
+    "Name":"Höfner-Apotheke AG",
+    "Address":"Wächlenstrasse 5 8832 Wollerau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0362352,46.754542 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Haslebacher",
+    "Address":"Hauptstrasse 131 3855 Brienz (BE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5154995,47.1689161 ]
+    },
+    "properties": {
+    "Name":"Apotheke Spillmann",
+    "Address":"Bahnhofstrasse 11 6300 Zug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8313527,47.1027949 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de l'Hôtel de Ville",
+    "Address":"Avenue Léopold-Robert 7 2300 La Chaux-de-Fonds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9562074,46.2654744 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Collombey",
+    "Address":"Z.A. Entre deux Fossaux 2 1868 Collombey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.164872,46.2799044 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Colombières",
+    "Address":"Av. Adrien-Lachenal 5 1290 Versoix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7093672,46.1184836 ]
+    },
+    "properties": {
+    "Name":"Farmacia Nuova",
+    "Address":"Via R. Leoncavallo 36 6614 Brissago"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2041514,46.3568638 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Crans-Celigny SA",
+    "Address":"Rue des Artisans 7 1299 Crans-près-Céligny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3458576,47.3654975 ]
+    },
+    "properties": {
+    "Name":"Droguerie J. Morgenthaler Courrendlin SA",
+    "Address":"Rue des Bâts 4 2800 Delémont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1422544,46.1943635 ]
+    },
+    "properties": {
+    "Name":"Pharmanature",
+    "Address":"Rue Dancet 3 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1420645,46.2067677 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Coutance",
+    "Address":"Rue de Coutance 7 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1396373,46.1804898 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus du Rondeau",
+    "Address":"Rue Ancienne 84 1227 Carouge GE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6750894,46.9395888 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de l'Areuse SA",
+    "Address":"Rue de Miéville 9 2105 Travers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6516896,46.5261533 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus de la Fauvette SA",
+    "Address":"Avenue de Chailly 6 1012 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1560771,46.1957206 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Florissant",
+    "Address":"Rue de Contamines 17 1206 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0740529,46.1761525 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Bernex",
+    "Address":"Rue de Bernex 260 1233 Bernex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4998227,46.5223927 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Crêt",
+    "Address":"Chemin du Crêt 2 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.136419,46.1839975 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus des Fontaines",
+    "Address":"Avenue Vibert 20-24 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0983606,46.1826299 ]
+    },
+    "properties": {
+    "Name":"Pharmacie d'Onex SA",
+    "Address":"Chemin de l'Auberge 2 1213 Onex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6391862,46.7794885 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Centrale Emery S.A.",
+    "Address":"Rue du Lac 27 1401 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1720948,46.3068141 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Mies",
+    "Address":"Rte de Saint-Cergue 3 1295 Mies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8516394,47.4654844 ]
+    },
+    "properties": {
+    "Name":"Apotheke und Sanitätshaus Gelterkinden Handschin AG",
+    "Address":"Poststrasse 9 4460 Gelterkinden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1197248,46.1823115 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Grand-Lancy",
+    "Address":"Ch. des Courtillets 6 1212 Grand-Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5070547,46.6142639 ]
+    },
+    "properties": {
+    "Name":"Pharmacie La Croisée",
+    "Address":"Grand Rue 1 1304 Cossonay-Ville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6368777,46.5195499 ]
+    },
+    "properties": {
+    "Name":"Sen'Su Pharmacie",
+    "Address":"Rue St-Pierre 4 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1998282,46.2043639 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Gouda",
+    "Address":"Ch. de la Montagne 136 1224 Chêne-Bougeries"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0835195,46.2148508 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Vieux-Village S.A.",
+    "Address":"Rue du Village 18 1214 Vernier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6205629,46.7900052 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Montagny",
+    "Address":"En Chamard 31 1442 Montagny-près-Yverdon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0333408,46.2141342 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus du Mandement",
+    "Address":"Route d'Aire-la-Ville 229 1242 Satigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8431163,46.4598007 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Marché",
+    "Address":"Grand Place 2 1800 Vevey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9470427,46.2666708 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Puits SA",
+    "Address":"Chemin des Vergers 3 1868 Collombey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1610802,46.1977746 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Museum SA",
+    "Address":"Route de Malagnou 29 1208 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2474409,46.440918 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus de Begnins",
+    "Address":"Route de St-Cergue 6 1268 Begnins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1295901,46.2131852 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Bertrand",
+    "Address":"Avenue Wendt 60 1203 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1497444,46.2124871 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Wilson",
+    "Address":"Rue des Pâquis 41 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5413936,46.5339571 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus d'Echandens /Pharmaetic SA",
+    "Address":"Place du Saugey 6 1026 Echandens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4079997,46.2516017 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Uvrier Centre",
+    "Address":"Route d'italie 115 1958 Uvrier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9294678,46.9917167 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Centrale Matthys SA",
+    "Address":"Rue de l'Hôpital 13 2000 Neuchâtel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9248134,46.9986764 ]
+    },
+    "properties": {
+    "Name":"Pharmacieplus des Cadolles",
+    "Address":"Rue du Plan 32 2000 Neuchâtel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1457793,46.1836463 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de la Fontenette SA",
+    "Address":"Rue de la Fontenette 23 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9107413,47.3486925 ]
+    },
+    "properties": {
+    "Name":"Saner Apotheke AG",
+    "Address":"Aarauerstrasse 55 4600 Olten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1297489,46.2204175 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Moillebeau 21",
+    "Address":"Rue Moillebeau 42 b 1209 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8429757,46.9443421 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Littoral-Centre",
+    "Address":"Chemin de Ronzi 2 2016 Cortaillod"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0518,47.30796 ]
+    },
+    "properties": {
+    "Name":"Lindenapotheke und Drogerie im Park",
+    "Address":"Dorfstr. 38 5040 Schöftland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0647042,46.6089075 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Saint-Roch",
+    "Address":"Place du Centre 2 1635 La Tour-de-Trême"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1388193,46.1973792 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Ecole de Médecine",
+    "Address":"Rue de l'Ecole-de-Médecine 3 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1834801,46.1649064 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Saillon",
+    "Address":"Route de Fully 11 1913 Saillon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8388458,46.7075685 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Lucens",
+    "Address":"Place de la Couronne 3 1522 Lucens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1629583,46.1966198 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Malagnou",
+    "Address":"Rte de Malagnou 48 1208 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7479178,47.0577949 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Mariotti",
+    "Address":"Grande-Rue 38 2400 Le Locle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.837345,46.9496894 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Centrale de Boudry SA",
+    "Address":"Oscar-Huguenin 13 2017 Boudry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1565402,46.333539 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Chavannes Centre",
+    "Address":"Chemin Industriel 1 1279 Chavannes-de-Bogis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1182635,46.2307861 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de la Tour",
+    "Address":"Chemin Ed.- Sarrasin 24 1218 Le Grand-Saconnex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0741409,46.1024194 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Lauber",
+    "Address":"Avenue de la Gare 7 1920 Martigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1823795,46.2165777 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Cologny S.A.",
+    "Address":"Place du Manoir 20 1223 Cologny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5285042,46.5182208 ]
+    },
+    "properties": {
+    "Name":"Pharmacie de Préverenges",
+    "Address":"Route de Lausanne 17 1028 Préverenges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.3384405,46.4581957 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus de l'Ile",
+    "Address":"Grand-rue 58 Bis 1180 Rolle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1108389,46.1887888 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Petit-Lancy/Onex",
+    "Address":"Rue des Bossons 88a 1213 Petit-Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.131694,46.2124628 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Populaire Rive Droite Drugstore",
+    "Address":"Rue de la Servette 81-83 1202 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4698161,47.4793828 ]
+    },
+    "properties": {
+    "Name":"Drogerie Amhof",
+    "Address":"Thannstrasse 2 9403 Goldach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0009438,47.0094494 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Bourg",
+    "Address":"Rue Auguste Bachelin 11 2074 Marin-Epagnier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7435891,46.7985134 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Vergers",
+    "Address":"Rue des vergers 7 1462 Yvonand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4678882,46.3064984 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Pharma-Crans SA",
+    "Address":"Rue du Grand-Place 7 3963 Crans-Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1554431,46.2027807 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Rive Gauche",
+    "Address":"Boulevard Helvétique 40 1207 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1409411,46.2034827 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Banques",
+    "Address":"Rue du Stand 62 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.095666,46.2216307 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Follonier SA",
+    "Address":"Route de Meyrin 171 1214 Vernier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1428758,46.1973976 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus du Rond-Point",
+    "Address":"Rd.-Point de Plainpalais 6 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1436705,46.204186 ]
+    },
+    "properties": {
+    "Name":"PP Pharmacie Principale - Life Store - Confédération Centre",
+    "Address":"Rue de la Monnaie 1-3 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.814601,46.9299044 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Château",
+    "Address":"Rue de la Gare 1 2022 Bevaix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5890012,47.5554304 ]
+    },
+    "properties": {
+    "Name":"Drogerie zum Chrüterhüsli AG",
+    "Address":"Gerbergasse 69 4001 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5894541,47.5539241 ]
+    },
+    "properties": {
+    "Name":"Hygieia Partners AG TopPharm Health & Go",
+    "Address":"Steinenberg 23 4051 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5978763,47.5595891 ]
+    },
+    "properties": {
+    "Name":"Wettstein Apotheke AG",
+    "Address":"Wettsteinplatz 3 4058 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4404326,46.9476349 ]
+    },
+    "properties": {
+    "Name":"Wettstein Apotheke 10279",
+    "Address":"Zentraler Rechnungsein 3001 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5097861,47.3780042 ]
+    },
+    "properties": {
+    "Name":"Nature First Apotheke AG",
+    "Address":"Albisriederplatz 3 8003 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5435871,47.3733232 ]
+    },
+    "properties": {
+    "Name":"Topwell Apotheke Rosen",
+    "Address":"Niederdorfstrasse 11 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5590517,47.3763945 ]
+    },
+    "properties": {
+    "Name":"Apotheke Kirche Fluntern",
+    "Address":"Vorderberg 5 8044 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5379933,47.3711098 ]
+    },
+    "properties": {
+    "Name":"St Peter Apotheke",
+    "Address":"St. Peterstrasse 16 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.53821,47.3782685 ]
+    },
+    "properties": {
+    "Name":"Naturewell Apotheke",
+    "Address":"Museumsstrasse 1 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5497211,47.3707166 ]
+    },
+    "properties": {
+    "Name":"Pfauen Apotheke AG",
+    "Address":"Rämistrasse 38 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.543746,47.3744851 ]
+    },
+    "properties": {
+    "Name":"Nature First Drogerie",
+    "Address":"Niederdorfstr. 29 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2441601,47.1328947 ]
+    },
+    "properties": {
+    "Name":"Apotheke Hilfiker",
+    "Address":"Bahnhofplatz 10 2502 Biel/Bienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2455082,47.13555 ]
+    },
+    "properties": {
+    "Name":"City-Apotheke AG",
+    "Address":"Bahnhofstrasse 36 2502 Biel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9360083,46.0105196 ]
+    },
+    "properties": {
+    "Name":"Farmacia Cinque Vie",
+    "Address":"PIazza Cinque Vie 5 6932 Breganzona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6428247,47.26966 ]
+    },
+    "properties": {
+    "Name":"Drogerie Sanitätshaus Roth",
+    "Address":"Dorfstrasse 84 8706 Meilen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5420216,47.130869 ]
+    },
+    "properties": {
+    "Name":"Swidro Drogerie Elmer GmbH",
+    "Address":"Landshutstrasse 10 3315 Bätterkinden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.489816,47.1220765 ]
+    },
+    "properties": {
+    "Name":"APODRO Drogerie Sevelen/ Lippuner",
+    "Address":"Bahnhofstrasse 41 9475 Sevelen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5257502,47.3116145 ]
+    },
+    "properties": {
+    "Name":"Drogerie Susanne Meier",
+    "Address":"Albisstrasse 7 8134 Adliswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6253521,47.4105932 ]
+    },
+    "properties": {
+    "Name":"Zentral Apotheke AG",
+    "Address":"Bahnhofstrasse 2 9435 Heerbrugg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5236286,47.212268 ]
+    },
+    "properties": {
+    "Name":"Apotheke am St. Martins-Ring",
+    "Address":"St. Martins-Ring 1 9492 Eschen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9452618,45.9907174 ]
+    },
+    "properties": {
+    "Name":"Farmacia Nuova Europa",
+    "Address":"Viale Salvador 7 6900 Paradiso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.8009693,46.1718838 ]
+    },
+    "properties": {
+    "Name":"Farmacia Elvetica",
+    "Address":"Piazza Statione 4 6600 Muralto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4858707,47.1968723 ]
+    },
+    "properties": {
+    "Name":"UrsDrogerie Apotheke mit Biolade",
+    "Address":"Blickensdorferstrasse 4 6312 Steinhausen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7526243,47.5033656 ]
+    },
+    "properties": {
+    "Name":"Drogerie Fink GmbH",
+    "Address":"Frauenfelderstrasse 67a 8404 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2743364,46.9008751 ]
+    },
+    "properties": {
+    "Name":"Apotheke am Postplatz",
+    "Address":"Sarnerstrasse 1 6064 Kerns"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1514202,46.0779786 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Grand Saint-Bernard",
+    "Address":"La Place 16 1933 Sembrancher"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7586068,47.5094347 ]
+    },
+    "properties": {
+    "Name":"TopPharm Römer-Apotheke",
+    "Address":"Römerstrasse 232 8404 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1805227,47.037192 ]
+    },
+    "properties": {
+    "Name":"Drogerie Balance AG",
+    "Address":"Weihermatte 7c 6102 Malters"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6920281,46.6254716 ]
+    },
+    "properties": {
+    "Name":"Drogerie von Känel GmbH",
+    "Address":"Bahnhofstrasse 22 3713 Reichenbach i. K."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0174903,47.5096337 ]
+    },
+    "properties": {
+    "Name":"Storchen-Apotheke und Drogerie",
+    "Address":"Hauptstrasse 26 5070 Frick"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6433761,46.8805835 ]
+    },
+    "properties": {
+    "Name":"Natur-Drogerie Regula Stocker GmbH",
+    "Address":"Gitschenstrasse 2 6460 Altdorf (UR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7291464,47.1742073 ]
+    },
+    "properties": {
+    "Name":"Vitapower AG",
+    "Address":"Langenthalstrasse 7 3367 Thörigen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3537579,47.4201279 ]
+    },
+    "properties": {
+    "Name":"Lachen Drogerie GmbH",
+    "Address":"Ulmenstrasse 9 9000 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4089615,47.3308836 ]
+    },
+    "properties": {
+    "Name":"Löwen Drogerie",
+    "Address":"Hauptgasse 20 9050 Appenzell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2868271,46.4737549 ]
+    },
+    "properties": {
+    "Name":"TopPharm Apotheke + Laboratorium Dr. A + M. Kropf",
+    "Address":"Promenade 44 3780 Gstaad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0516125,47.282593 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Franches-Montagnes",
+    "Address":"Place du 23 Juin 2 2350 Saignelégier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9714141,47.2484306 ]
+    },
+    "properties": {
+    "Name":"Drogerie Solaris GmbH",
+    "Address":"Hauptstrasse 52 6260 Reiden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5096453,46.7691583 ]
+    },
+    "properties": {
+    "Name":"Pedro Drogerie Durtschi",
+    "Address":"Blumensteinstrasse 5 3665 Wattenwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5112,46.85035 ]
+    },
+    "properties": {
+    "Name":"Lavalera Naturdrogerie",
+    "Address":"Rheinfelsstrasse 39 7000 Chur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2762141,47.2383021 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Plus Salzmann",
+    "Address":"Place de la gare 3 2735 Malleray"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1740664,47.0361188 ]
+    },
+    "properties": {
+    "Name":"Medicus Apotheke Kriens",
+    "Address":"Luzernstrasse 30 6010 Kriens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3766185,46.9667972 ]
+    },
+    "properties": {
+    "Name":"Drogerie im Chappele-Märit",
+    "Address":"Kappelenring 2 3032 Hinterkappelen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5993979,47.1735703 ]
+    },
+    "properties": {
+    "Name":"Drogerie Kilchenmann",
+    "Address":"Haltenstrasse 16 4566 Kriegstetten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7244238,47.497542 ]
+    },
+    "properties": {
+    "Name":"Topwell-Apotheken AG",
+    "Address":"Lagerhausstrasse 11 8401 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2633687,47.0494761 ]
+    },
+    "properties": {
+    "Name":"Fanghöfli-Apotheke",
+    "Address":"Luzernerstrasse 143 6014 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9473987,45.9913107 ]
+    },
+    "properties": {
+    "Name":"Farmacia San Salvatore SA",
+    "Address":"Via Geretta 2 6900 Paradiso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7886146,47.2118215 ]
+    },
+    "properties": {
+    "Name":"Drogerie Salute AG",
+    "Address":"Marktgasse 26 4900 Langenthal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0476718,47.4139516 ]
+    },
+    "properties": {
+    "Name":"Natura Drogerie AG",
+    "Address":"Hauptstrasse 11 5024 Küttigen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5654744,47.294432 ]
+    },
+    "properties": {
+    "Name":"Drogerie Schnellmann",
+    "Address":"Gotthardstrasse 12 8800 Thalwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5238466,47.0851052 ]
+    },
+    "properties": {
+    "Name":"Drogerie Studer",
+    "Address":"Bahnhofstrasse 3 3312 Fraubrunnen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9455731,47.3535257 ]
+    },
+    "properties": {
+    "Name":"Jura Apotheke Eichenberger AG",
+    "Address":"Jurastrasse 3 4657 Dulliken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5262006,47.1942299 ]
+    },
+    "properties": {
+    "Name":"Rathaus Apotheke",
+    "Address":"Dorfstrasse 3 6340 Baar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.505821,47.1780404 ]
+    },
+    "properties": {
+    "Name":"Herti Apotheke & Drogerie AG",
+    "Address":"Hertizentrum 10 6300 Zug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.2975535,47.5476347 ]
+    },
+    "properties": {
+    "Name":"Amriville Reformhaus Kiebitz -Bioregio",
+    "Address":"Kirchstrasse 11 8580 Amriswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.585241,47.0852866 ]
+    },
+    "properties": {
+    "Name":"Drogerie-Naturheilmittel Käser & Vögeli AG",
+    "Address":"Ersigenstrasse 2 3422 Kirchberg (BE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2734591,47.4185948 ]
+    },
+    "properties": {
+    "Name":"Drogerie C. Haus AG",
+    "Address":"Hauptgasse 3 5507 Mellingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.837464,46.6340322 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Ursy",
+    "Address":"Rte de Romont 29 1670 Ursy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4470737,47.0204301 ]
+    },
+    "properties": {
+    "Name":"Drogerie Studer AG",
+    "Address":"Oberdorfstrasse 25 3053 Münchenbuchsee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5149406,47.1725106 ]
+    },
+    "properties": {
+    "Name":"TopPharm Bahnhof - Apotheke",
+    "Address":"Alpenstrasse 12 6304 Zug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7297563,47.499622 ]
+    },
+    "properties": {
+    "Name":"Nature First Apotheke und Drrogerie",
+    "Address":"Marktgasse 19 8400 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.165115,46.1443846 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Sources",
+    "Address":"Route du Léman 25 1907 Saxon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3399634,47.201431 ]
+    },
+    "properties": {
+    "Name":"Drogerie Abderhalden",
+    "Address":"Hauptstrasse 93 9658 Wildhaus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7675492,47.2518489 ]
+    },
+    "properties": {
+    "Name":"Mistel-Apotheke",
+    "Address":"Rütistrasse 7 8634 Hombrechtikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5238475,47.1946552 ]
+    },
+    "properties": {
+    "Name":"Gotthard Apotheke",
+    "Address":"Bahnhofstrasse 17 6340 Baar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6515004,46.8727476 ]
+    },
+    "properties": {
+    "Name":"Drogerie Geiser AG",
+    "Address":"Gotthardstrasse 67 6460 Altdorf (UR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1182549,46.928755 ]
+    },
+    "properties": {
+    "Name":"Drogerie Aebi",
+    "Address":"Hauptgasse 50 3280 Murten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3752779,47.4255273 ]
+    },
+    "properties": {
+    "Name":"Alpstein Drogerie-Parfümerie",
+    "Address":"Neugasse 12 9004 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1873959,47.4138497 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Peterer AG",
+    "Address":"Bahnhofstrasse 5 9230 Flawil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.646582,46.5868689 ]
+    },
+    "properties": {
+    "Name":"Pedro Drogerie",
+    "Address":"Kanderstegstrasse 20 3714 Frutigen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8142448,47.463499 ]
+    },
+    "properties": {
+    "Name":"Central Apotheke",
+    "Address":"Hauptstrasse 46 4450 Sissach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3076087,47.0538434 ]
+    },
+    "properties": {
+    "Name":"Hertenstein Drogerie",
+    "Address":"Hertensteinstrasse 43 6004 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4376137,46.9753549 ]
+    },
+    "properties": {
+    "Name":"Drogerie M.Studer AG",
+    "Address":"Kalchackerstrasse 9 3047 Bremgarten b. Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0468467,47.3917875 ]
+    },
+    "properties": {
+    "Name":"CareLand Apotheke",
+    "Address":"Kasinostrasse 32 5000 Aarau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2527612,47.4934372 ]
+    },
+    "properties": {
+    "Name":"Drogerie Zumsteg",
+    "Address":"Bahnhofstrasse 7 5300 Turgi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6639054,47.2312214 ]
+    },
+    "properties": {
+    "Name":"Drogerie Süess",
+    "Address":"Zugerstrasse 58 8820 Wädenswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.007772,47.011913 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store 245 MMM Marin Centre",
+    "Address":"Rue Fleur de Lys 26 2074 Marin-Epagnier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.552049,46.513519 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Admin St-Sulpice",
+    "Address":"Rue des Jordils 38 1025 St- Sulpice (VD)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1104504,46.2313328 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Aéroport 431",
+    "Address":"Gare CFF Genève Aéroport 1215 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9370742,46.3171884 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Aigle 191",
+    "Address":"MMM Chablais Centre Aigle 1860 Aigle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4013052,46.4765733 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Allaman 541",
+    "Address":"Littoral Centre Coop 1165 Allaman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2576153,46.2112467 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Ardon 186",
+    "Address":"Route du Simplon 46 1957 Ardon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1091731,46.2201404 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Avanchets 892",
+    "Address":"Rue du Grand-Bay 21 1220 Les Avanchets"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0320076,46.8773039 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Avenches 481",
+    "Address":"Centre Milavy 1580 Avenches"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0781119,46.7876479 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Avry 211",
+    "Address":"MMM Avry Centre 1754 Avry-sur-Matran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2524494,47.3389461 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Bassecourt 301",
+    "Address":"Rue de l´Abbé-Monnin 81 2854 Bassecourt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6184373,46.531371 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Bergières Centre 361",
+    "Address":"Avenue des Bergières 50 1004 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8952135,46.4652894 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Blonay 751",
+    "Address":"Route du Village 37 1807 Blonay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2384642,46.3826777 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Bourg Nyon 371",
+    "Address":"Galerie du Bourg 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0599695,46.625058 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Bulle 691 coop",
+    "Address":"Route de Riaz 50 1630 Bulle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5524202,46.5492875 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Bussigny 871",
+    "Address":"Rue de la gare 19 1030 Bussigny-près-Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.144778,46.211528 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Centre Les Cygnes 461",
+    "Address":"Rue de Lausanne 20 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9957655,47.012307 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Centre Manor Marin 2410",
+    "Address":"Avenue des Champs-Montants 2 2074 Marin-Epagnier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.651786,46.5271314 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Chailly 531",
+    "Address":"Chemin de Rovéréaz 5 1012 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1945703,46.1965636 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Chêne-Bourg 421",
+    "Address":"Avenue de Bel-Air 12 1225 Chêne-Bourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8927827,46.4411192 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Clarens 351",
+    "Address":"Avenue de Pléiades 6 1815 Clarens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9531655,46.2648552 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Collombey 151",
+    "Address":"Centre Coop Parc du Rhône 1868 Collombey-Muraz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3027731,46.223832 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Conthey 181",
+    "Address":"Forum des Alpes 1964 Conthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2955071,46.2234269 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Conthey 185",
+    "Address":"Bassin Centre 1964 Conthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5066383,46.6136661 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Cossonnay 471",
+    "Address":"Route de Chavannes 1A 1304 Cossonay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5691556,46.5549207 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Crissier 551",
+    "Address":"Chemin du Closalet 7 1023 Crissier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3652535,47.3514927 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Délémont 291",
+    "Address":"MM Délémont 2800 Delémont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6357865,46.6390289 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Echallens 391",
+    "Address":"Rue de Praz-Palud 2 1040 Echallens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5761586,46.5363964 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Ecublens 501",
+    "Address":"Avenue Tir Fédéral 14 1024 Ecublens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.802929,47.0886118 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Eplatures 267",
+    "Address":"Centre MM Les Eplatures 2300 La Chaux-de-Fonds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4260313,46.4738015 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Etoy 851",
+    "Address":"Route Suisse 26 1163 Etoy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1541803,46.804171 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Fribourg 201",
+    "Address":"Rue de Romont 26 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0757466,46.1110322 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Fully 143",
+    "Address":"Avenue de Fully 53 1920 Martigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6287575,46.5170433 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Gare 381",
+    "Address":"Bâtiment CFF Quai 1 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.275588,46.4179629 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Gland 601",
+    "Address":"Rue des Alpes 2 1196 Gland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0574669,46.623698 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Gruyère-Centre 231",
+    "Address":"Rue du Château-d´en-Bas 2 1630 Bulle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2346735,46.3827319 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store La Combe 331",
+    "Address":"Rue de la Morâche 6 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1341667,46.1847222 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store La Praille 451",
+    "Address":"M-Parc la Praille 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1114556,46.1869795 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Lancy-Centre 441",
+    "Address":"Route de Chancy 71 1213 Petit-Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6300964,46.5218939 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Lausanne 771 Grand Pont",
+    "Address":"Rue du Grand Pont 18 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7478741,47.0561748 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Le Locle 801",
+    "Address":"Rue Bournot 35 2400 Le Locle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0717364,46.1021464 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Le Manoir 141",
+    "Address":"Place du Manoir 1920 Martigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.91256,46.6926376 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Levant 896",
+    "Address":"Avenue de la Gare 7 1680 Romont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9506861,46.0054421 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Lugano 950",
+    "Address":"Via Pietro Peri 5 6900 Lugano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6885542,46.5058342 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Lutry 591",
+    "Address":"Centre commercial Les Moulins 1095 Lutry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1251123,46.2082966 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Lyon",
+    "Address":"Rue de Lyon 81 1203 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6023052,46.5272419 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Malley 671",
+    "Address":"M Centre Malley Lumières 1008 Prilly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8273056,47.1000474 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Métropole",
+    "Address":"Rue Daniel-Jeanrichard 23 2300 La Chaux-de-Fonds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.627207,46.5226618 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Métropole 251",
+    "Address":"Rue des Terreaux 25 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6215634,46.7881246 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Montagny 521",
+    "Address":"En Chamard 14 1442 Montagny-près-Yverdon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9474562,46.261072 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Monthey 121",
+    "Address":"Centre Manor Monthey 1870 Monthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9519484,46.254049 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Monthey 161",
+    "Address":"Avenue de la Gare 36 1870 Monthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9104322,46.4312943 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Montreux 621",
+    "Address":"MM Forum Centre 1820 Montreux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4980707,46.5098432 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Morges Centre 841",
+    "Address":"Rue Centrale 12 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8009515,46.668123 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Moudon 661",
+    "Address":"Avenue de Préville 1C 1510 Moudon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5309771,46.730913 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Orbe 401",
+    "Address":"Route de Valeyres 1 1350 Orbe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1436389,46.1930324 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Plainpalais 721",
+    "Address":"Rue de Carouge 64 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4948101,46.509658 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun store Pont-Neuf 811",
+    "Address":"Rue de la gare 19 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.077144,47.4164475 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Porrentruy 741",
+    "Address":"Faubourg Saint-Germain 2 2900 Porrentruy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6598726,46.5111735 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Pully 651",
+    "Address":"Place Neuve 2 1009 Pully"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.580379,46.5387543 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Renens 321",
+    "Address":"Centre MM Métropole 1020 Renens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9240414,46.3835833 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Rennaz-Villeneuve 341",
+    "Address":"Centre Riviera-Coop 1847 Rennaz-Villeneuve"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6317939,46.5229522 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Riponne Lausanne 491",
+    "Address":"Angle Riponne-Haldimand 1 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.3359487,46.4609086 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Rolle 311",
+    "Address":"Centre MMM Les Eaux 2 1180 Rolle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6122951,46.5598853 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Romanel 645",
+    "Address":"En Félezin 1032 Romanel-sur-Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5108068,46.2825596 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Sierre 131",
+    "Address":"Centre Manor 3960 Sierre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5138272,46.2815412 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Sierre 135",
+    "Address":"Centre Commercial Rossfeld 3960 Sierre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.206261,46.3973554 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Signy-Centre 893",
+    "Address":"Signy Centre Rue des Fléchères 7A 1274 Signy-Avenex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3558322,46.2288045 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Sion 111",
+    "Address":"Avenue de France 14 - 20 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3592444,46.227504 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Sion 115",
+    "Address":"Place de la Gare 1 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3620224,46.2314178 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Sion 171",
+    "Address":"Place du Midi 40 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6331481,46.5191107 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store St-François 781",
+    "Address":"Place St-François 15 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2133783,46.1914443 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Thônex 731",
+    "Address":"Rue de Genève 106 1226 Thônex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0833327,46.2167048 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Vernier 891",
+    "Address":"Route de Peney 2-4 1214 Vernier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1652652,46.2810892 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Versoix 894",
+    "Address":"Chemin J.-B Vandelle 8A 1290 Versoix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1985909,46.240334 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Vesenaz 791",
+    "Address":"Route de Thonon 55 1222 Vésenaz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8403194,46.4638082 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Vevey 571",
+    "Address":"Avenue Géneral Guisan 17 1800 Vevey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8419063,46.4648547 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Vevey 895",
+    "Address":"Rue des deux Gares 8 1800 Vevey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1260326,46.7977999 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Villars sur Glâne",
+    "Address":"Centre Fribourg Sud 1752 Villars-sur-Glâne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6355254,46.7813158 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Sun Store Yverdon Metropole 511",
+    "Address":"Rue de Neuchâtel 3 1400 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7946299,46.1674939 ]
+    },
+    "properties": {
+    "Name":"Sun Store Locarno SA",
+    "Address":"Casa Benetta Via Bernardino Luini 23 6600 Locarno"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6207979,47.5407046 ]
+    },
+    "properties": {
+    "Name":"Sun Store Basel St-Jakob 920",
+    "Address":"St.Jakobs-Strasse 397 4052 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3829115,46.9479319 ]
+    },
+    "properties": {
+    "Name":"Sun Store Bern Bethlehem",
+    "Address":"Riedbachstrasse 8 3027 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4421029,46.9475033 ]
+    },
+    "properties": {
+    "Name":"Sun Store Bern Storchengässchen",
+    "Address":"Storchengässchen 6 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2932859,47.1614364 ]
+    },
+    "properties": {
+    "Name":"Sun Store Bienne Boujean 271",
+    "Address":"Zürichstrasse 24 2504 Biel/Bienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2449911,47.1348748 ]
+    },
+    "properties": {
+    "Name":"Sun Store Bienne Centre 916",
+    "Address":"Bahnhofstrasse 16 2502 Biel/Bienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2429533,47.1330143 ]
+    },
+    "properties": {
+    "Name":"Sun Store Bienne Gare CFF 924",
+    "Address":"Bahnhofplatz 4 2502 Biel/Bienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5727542,47.5323041 ]
+    },
+    "properties": {
+    "Name":"Sun Store Binningen",
+    "Address":"Gorenmattstrasse 17 4102 Binningen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5403912,47.5100159 ]
+    },
+    "properties": {
+    "Name":"Sun Store Bülach",
+    "Address":"Feldstrasse 85 8180 Bülach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4851943,46.9741543 ]
+    },
+    "properties": {
+    "Name":"Sun Store Ittigen",
+    "Address":"Talweg 6 3063 Ittigen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.956639,46.0175698 ]
+    },
+    "properties": {
+    "Name":"SUN STORE Lugano",
+    "Address":"via Beltramina 1 6900 Lugano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2903034,47.4880384 ]
+    },
+    "properties": {
+    "Name":"Sun Store Nussbaumen",
+    "Address":"Schulstrasse 2 5415 Nussbaumen AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4959606,46.9567385 ]
+    },
+    "properties": {
+    "Name":"Sun Store Ostermundigen",
+    "Address":"Bernstrasse 114 3072 Ostermundigen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6338804,46.7812982 ]
+    },
+    "properties": {
+    "Name":"Sun Store Steffisburg",
+    "Address":"Oberdorfstrasse 39 3612 Steffisburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6735832,47.2299874 ]
+    },
+    "properties": {
+    "Name":"Sun Store Wädenswil",
+    "Address":"Zugerstrasse 2 8820 Wädenswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5361463,47.3752669 ]
+    },
+    "properties": {
+    "Name":"SUN STORE Zürich Migros City",
+    "Address":"Löwenstrasse 31-35 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2084446,47.4823122 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke & Drogerie Brugg",
+    "Address":"Neumarktplatz 16 5200 Brugg AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9807324,47.2263083 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke & Drogerie Frohsinn",
+    "Address":"Zürcherstrasse 25 8730 Uznach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4633978,47.4085042 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke & Drogerie Oberengstringen",
+    "Address":"Zentrum 2 8102 Oberengstringen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5484394,47.3665878 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke & Drogerie Stadelhofen",
+    "Address":"Bahnhof Stadelhofen Stadelhoferstrasse 8 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5237883,47.3750899 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke & Drogerie Wengihof",
+    "Address":"Kernstrasse 8 8004 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4497203,47.2772041 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Affoltern a.A.",
+    "Address":"Ob. Bahnhofstrasse 12 8910 Affoltern am Albis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5298768,47.3384189 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Albisstrasse",
+    "Address":"Albisstrasse 106 8038 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5379023,47.377205 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Altstätten",
+    "Address":"Stossstrasse 2 9450 Altstätten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6750463,47.2288772 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Bahnhof",
+    "Address":"Bahnhofstrasse 5 8820 Wädenswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4399496,46.9482085 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Bahnhof Bern",
+    "Address":"Christoffelunterführung 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6920476,47.5221607 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Bahnhof Pratteln",
+    "Address":"Bahnhofstrasse 3 4133 Pratteln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5399354,47.3766683 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Bahnhofstrasse Zürich",
+    "Address":"Bahnhofstrasse 108 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5619316,47.1824984 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Biberist",
+    "Address":"Hauptstrasse 30 4562 Biberist"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6243095,47.5556584 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Birsfelden",
+    "Address":"Chrischonastrasse 2 4127 Birsfelden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4535174,46.9579183 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Breitenrain",
+    "Address":"Moserstrasse 33 3014 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7366699,47.4835385 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Bücheli Center Liestal",
+    "Address":"Büchelistrasse 10 4410 Liestal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5898729,47.5485284 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Central",
+    "Address":"Centralbahnplatz 13 4051 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4597065,46.9224696 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Chly Wabern",
+    "Address":"Seftigenstrasse 368 3084 Wabern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5297952,46.8536096 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Chur",
+    "Address":"Bahnhof Passage 7000 Chur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8391453,46.4979862 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Corviglia",
+    "Address":"Via Maistra 11 7500 St. Moritz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0422695,47.4625868 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Derby Wil",
+    "Address":"Obere Bahnhofstrasse 1 9500 Wil SG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5842778,47.1966978 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Derendingen",
+    "Address":"Hauptstrasse 28 4552 Derendingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.398172,47.4055703 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Dietikon",
+    "Address":"Badenerstrasse 15 8953 Dietikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2668404,47.4131888 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Dr. Hans M. Dietiker",
+    "Address":"Lenzburgerstrasse 50 5507 Mellingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2435883,47.1342699 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Dr. Steiner",
+    "Address":"Bahnhofstrasse 9 2502 Biel/Bienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5928768,47.5526935 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Drachencenter",
+    "Address":"Aeschenvorstadt 24 4051 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3426964,47.0824558 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Ebikon",
+    "Address":"Zentralstrasse 30 6030 Ebikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5322232,47.3645064 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Enge",
+    "Address":"Tessinerplatz 1 8002 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5904723,47.3069925 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Erlibacher-Märt",
+    "Address":"Bahnhofstrasse 40 8703 Erlenbach ZH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.840555,46.8092512 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Flüela",
+    "Address":"Bahnhofstrasse 1 7260 Davos Dorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.541694,47.3768866 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Flughafen Airport Shopping",
+    "Address":"Postfach 2328 8060 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.541694,47.3768866 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Flughafen Airside Center",
+    "Address":"Postfach 2328 8060 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.541694,47.3768866 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Flughafen Check-In",
+    "Address":"Postfach 2328 8060 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4128397,47.4379639 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Gallusmarkt",
+    "Address":"Favrestrasse 6 9016 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.595528,47.4079959 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Glattzentrum",
+    "Address":"Einkaufszentrum Glatt 8304 Wallisellen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5907777,47.5443901 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Gundeli",
+    "Address":"Solothurnerstrasse 39 4053 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.309417,47.0191592 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Horw",
+    "Address":"Gemeindehausplatz 17 6048 Horw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.2042209,46.7736553 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Ilanz",
+    "Address":"Bahnhofstrasse 10 7130 Ilanz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6297243,46.7548939 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke im Bahnhof Thun",
+    "Address":"Seestrasse 2 3600 Thun"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5978874,47.3469746 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke im Zollikerberg",
+    "Address":"Forchstrasse 146 8125 Zollikerberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4416378,46.9477433 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Ischi",
+    "Address":"Spitalgasse 37 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.506365,47.0495805 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Jegenstorf",
+    "Address":"Bernstrasse 2 3303 Jegenstorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1942531,46.9741168 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Kerzers",
+    "Address":"Murtenstrasse 13 3210 Kerzers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.337646,47.273935 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Kloster",
+    "Address":"Kirchbühlstrasse 2 5630 Muri AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8208637,46.794767 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Kongress",
+    "Address":"Promenade 49 7270 Davos Platz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4140712,46.9231925 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Köniz",
+    "Address":"Bläuacker 10 3098 Köniz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5325199,46.8508957 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Landi",
+    "Address":"Grabenstrasse 15 7000 Chur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7841656,47.2143024 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Langenthal",
+    "Address":"Wiesenstrasse 28 4900 Langenthal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7354091,47.4836913 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Liestal",
+    "Address":"Rathausstrasse 53 4410 Liestal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3103301,47.0563172 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke LöwenCenter",
+    "Address":"LöwenCenter Zürichstrasse 5 6004 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4498436,47.021166 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Münchenbuchsee",
+    "Address":"Oberdorfstrasse 5 3053 Münchenbuchsee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5429281,47.410484 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Neumarkt Oerlikon",
+    "Address":"Hofwiesenstrasse 350 8050 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5532605,47.5475673 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Paradies",
+    "Address":"Einkaufsparadies Spitzwaldstrasse 215 4123 Allschwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3733791,47.4247134 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Poststrasse",
+    "Address":"Poststrasse 9 9000 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6332986,47.5705773 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Rauracher",
+    "Address":"Rauracherstrasse 33/35 4125 Riehen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4670519,47.4310345 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Regensdorf",
+    "Address":"Zentrum 8105 Regensdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.593479,47.561164 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Rheinbrücke",
+    "Address":"Rebgasse 10 4058 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6305427,47.4078742 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Rhyland",
+    "Address":"Einkaufszentrum Rhyland 9443 Widnau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6516567,47.5850902 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Riehen",
+    "Address":"Webergässchen 6 4125 Riehen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4412034,47.0836743 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Rigimärt",
+    "Address":"Siegwartstrasse 11 6403 Küssnacht am Rigi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8867747,47.3065867 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Rothrist",
+    "Address":"Einkaufszentrum Breitenpark 4852 Rothrist"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5298847,47.4509402 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Rümlang",
+    "Address":"Oberdorfstrasse 24 8153 Rümlang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3161769,47.4173964 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Säntispark",
+    "Address":"Einkaufszentrum Säntispark 9030 Abtwil SG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6199491,47.4938828 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Schneeberger",
+    "Address":"Bachweg 1 4144 Arlesheim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3284956,47.0372106 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Schönbühl",
+    "Address":"Shoppingcenter Schönbühl 6005 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5729576,47.4045613 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Schwamendingen",
+    "Address":"Winterthurerstrasse 529 8051 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4920966,47.0163628 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Shoppyland",
+    "Address":"Industriestrasse 10 3322 Urtenen-Schönbühl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5405451,47.3773372 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Shopville",
+    "Address":"Bahnhofpassage 15 8001 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9986782,47.4616319 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Sirnach",
+    "Address":"Wilerstrasse 6 8370 Sirnach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.540381,47.5210629 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Sonnenhof",
+    "Address":"Einkaufszentrum Sonnenhof 8180 Bülach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8355637,46.4883805 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke St. Moritz-Bad AG",
+    "Address":"Via dal Bagn 1 7500 St. Moritz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.587056,47.5587425 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Stadthaus",
+    "Address":"Stadthausgasse 10 4051 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5250889,47.3113424 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Sunnemärt",
+    "Address":"Albisstrasse 10 8134 Adliswil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3689069,47.4220833 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Tivoli",
+    "Address":"Einkaufszentrum Shoppi Tivoli Hochhaus 9 8957 Spreitenbach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6438512,46.8807134 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke und Drogerie Altdorf",
+    "Address":"Schmiedgasse 11 6460 Altdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.76256,47.4852978 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke und Drogerie Seen",
+    "Address":"Hinterdorfstrasse 40 8405 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.579203,47.1380428 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Unterägeri",
+    "Address":"Zugerstrasse 32 6314 Unterägeri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1329097,47.4382594 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Uzwil",
+    "Address":"Neudorfstrasse 2 9240 Uzwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8802667,46.2927976 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Vispach",
+    "Address":"Centerpark 3930 Visp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4479771,46.948093 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Volz",
+    "Address":"Zytgloggelaube 2 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6344748,47.6983539 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Vorstadt",
+    "Address":"Vorstadt 30/32 8200 Schaffhausen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.339942,47.0543732 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Würzenbach",
+    "Address":"Kreuzbuchstrasse 53 6006 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0889841,47.3846179 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Wynecenter",
+    "Address":"Wynecenter 5033 Buchs AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3417698,47.2721297 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Zentral",
+    "Address":"Kirchenfeldstrasse 2 5630 Muri AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7472493,46.0220556 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Zermatt",
+    "Address":"Bahnhofstrasse 17 3920 Zermatt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5146819,47.1714458 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Zug",
+    "Address":"Bundesplatz 10 6300 Zug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6240121,47.332116 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Zumikon",
+    "Address":"Dorfplatz 4 8126 Zumikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.48905,47.3914255 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Zürich Altstetten",
+    "Address":"Altstetterplatz 12 8048 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6937218,47.5204877 ]
+    },
+    "properties": {
+    "Name":"Amavita Apotheke Pratteln",
+    "Address":"Burggartenstrasse 21 4133 Pratteln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6217663,47.0596476 ]
+    },
+    "properties": {
+    "Name":"Amavita Grosse Apotheke",
+    "Address":"Bahnhofstrasse 61 3400 Burgdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4596875,46.9973095 ]
+    },
+    "properties": {
+    "Name":"Amavita Kreuz Apotheke",
+    "Address":"Bernstrasse 150 3052 Zollikofen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1163522,46.9280463 ]
+    },
+    "properties": {
+    "Name":"Amavita Murten",
+    "Address":"Hauptgasse 7 3280 Murten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4375948,46.9474667 ]
+    },
+    "properties": {
+    "Name":"Amavita Schwanen Apotheke",
+    "Address":"Bubenbergplatz 12 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.247452,47.1402865 ]
+    },
+    "properties": {
+    "Name":"Amavita Stern Biel",
+    "Address":"Collègegasse 17 2500 Bienne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2163533,46.8147365 ]
+    },
+    "properties": {
+    "Name":"Amavita Tafers",
+    "Address":"Amtshausweg 1 1712 Tafers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0121132,45.8463331 ]
+    },
+    "properties": {
+    "Name":"Famacia Amavita Centro Breggia",
+    "Address":"Centro Breggia Via San Gottardo 56 A 6828 Balerna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7677703,46.156166 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Centro Ascona-Ascona",
+    "Address":"Via Borgo 28 6612 Ascona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9520015,46.007095 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Gianella",
+    "Address":"Via Pretorio 15 6900 Lugano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9504027,46.0045768 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Lugano",
+    "Address":"Via Soave 8 6900 Lugano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9865732,45.8704689 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Lurà",
+    "Address":"Via Luigi Lavizzari 19 6850 Mendrisio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9532596,46.4389367 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Martinoli",
+    "Address":"Via Cantonale 6715 Dongio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9615282,46.15392 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Mordasini",
+    "Address":"Centro MMM Sant Antonino Via Serrai 5 6592 S. Antonino"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9534382,46.0056693 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Pelli",
+    "Address":"Via al Forte 3 6900 Lugano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7687273,46.164578 ]
+    },
+    "properties": {
+    "Name":"Farmacia Amavita Realini Mercato Cattori Losone",
+    "Address":"Centre Cattori-Coop 6616 Losone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.95,46.533333 ]
+    },
+    "properties": {
+    "Name":"Farmacia Martinoli SA",
+    "Address":"Via Cantonale 54 6718 Olivone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1375631,46.1919459 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Acacias",
+    "Address":"Rte des Acacias 8 1227 Les Acacias"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9370607,46.8210931 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Alpha Galenicare",
+    "Address":"Grand Rue 33 1530 Payerne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4728798,46.309264 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Bagnoud",
+    "Address":"Route du Rawyl 32 3963 Crans-Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1446766,46.8010435 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Beauregard",
+    "Address":"Chemin de Bethléem 3 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5314732,46.2928364 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Burgener",
+    "Address":"Av du Géneral Guisan 12 3960 Sierre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1566613,46.2028129 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Cardinaux",
+    "Address":"Rue des eaux vives 1 1207 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1313181,46.2003316 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Carl-Vogt",
+    "Address":"Bd Carl-Vogt 18 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3676177,47.2768683 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Centre Coop",
+    "Address":"Rue Industrielle 16 2740 Moutier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3698395,47.2766867 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Centre Migros",
+    "Address":"Route de l´Ecluse 1 2740 Moutier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0793773,46.2377131 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Champs-Fréchets",
+    "Address":"Promenade des Artisans 34 1217 Meyrin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1432593,46.2080537 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Chantepoulet",
+    "Address":"Rue de Chantepoulet 21 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.130629,46.4739875 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Château d´Oex",
+    "Address":"Grand Rue 67 1660 Château-d´Oex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1938264,46.1944478 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Chêne-Bourg",
+    "Address":"Rue de Genève 16 1225 Chêne-Bourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1337177,46.1994531 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Cité-Jonction",
+    "Address":"Boulevard Carl-Vogt 35 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0605048,46.6215789 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Condémine",
+    "Address":"Rue de la Condémine 56 1630 Bulle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6305892,46.5218086 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Conod",
+    "Address":"Rue Pichard 16 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8448037,46.4665224 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Copet",
+    "Address":"Avenue de Corsier 1 1800 Vevey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1244435,46.8649607 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Courtepin",
+    "Address":"Le Centre 2 1784 Courtepin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6606154,46.5442025 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Croisettes",
+    "Address":"Chemin des Croisettes 9B 1066 Epalinges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.836952,46.9499415 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita d´Herborence",
+    "Address":"Rue Oscsar-Huguenin 23 2017 Boudry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.204108,46.2532106 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita de Collonges Bellerive",
+    "Address":"Route d´Hermance 130 1245 Collonge-Bellerive"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2318256,46.3848071 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita de Cortot",
+    "Address":"Av. A.Cortot 7A 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6273855,46.5332322 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita de l´Ancien Stand",
+    "Address":"route des Plaines-du-Loup 10 1018 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6707398,46.548042 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita de la Croix Blanche",
+    "Address":"Place de la Croix-Blanche 5 1066 Epalinges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6254152,46.5121198 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita de la Harpe",
+    "Address":"Avenue de Cour 11 1007 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7314238,46.5389817 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita de Savigny",
+    "Address":"Place du Forum 1 1073 Savigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.349286,47.3635445 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Delémont",
+    "Address":"Avenue de la Gare 46 2800 Delémont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0608542,47.0563422 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita des 2 Thielles",
+    "Address":"Centre Migros Route de Neuchâtel 46 2525 Le Landeron"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0127624,46.8666761 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Domdider",
+    "Address":"Rue Centrale 21 1564 Domdidier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6052013,46.5847066 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Centre-Cheseaux",
+    "Address":"Route de Lausanne 5 1033 Cheseaux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6386323,46.7801862 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Collège",
+    "Address":"Rue du Lac 42 1400 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5670706,46.534259 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Croset",
+    "Address":"Chemin du Croset 1 1024 Ecublens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0673824,47.055926 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Landeron Centre-ville",
+    "Address":"Route de Soleure 33c 2525 Le Landeron"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1418819,46.1840171 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Marché",
+    "Address":"Place du Marché 1 1227 Carouge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1200548,46.2290886 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Pommier",
+    "Address":"Rue Sonnex 14 1218 La Grand Sacconnex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6376728,46.5176771 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Théâtre",
+    "Address":"Avenue Georgette 4 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7751009,46.895329 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita du Trèfle",
+    "Address":"La Couronne 3 2024 Saint-Aubin-Sauges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.828921,47.1028424 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Espacité",
+    "Address":"Espacité 5 2300 La Chaux-de-Fonds"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1623717,46.1928303 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Florissant",
+    "Address":"Route de Florissant 70 1206 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1422168,46.2098114 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Gare Cornavin",
+    "Address":"Place Cornavin 3 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.236409,46.3841241 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Gare Nyon",
+    "Address":"Place de la gare 7 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5787204,46.5365776 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Gare Renens",
+    "Address":"Place de la gare 4 1020 Renens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2611431,46.4232763 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Gland",
+    "Address":"Rue Borgeaud 1c 1196 Gland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4855008,46.507241 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Gottaz Centre",
+    "Address":"Av de Gottaz 28 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1485753,46.7830077 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Grand-Pré",
+    "Address":"Impasse du Nouveau Marché 1 1723 Marly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1536099,46.8210304 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Granges-Paccot",
+    "Address":"Centre Commercial Migros 1763 Granges-Paccot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.525077,46.2904733 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Hofmann",
+    "Address":"Rte de Sion 14 3960 Sierre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0815767,46.2281197 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Jura",
+    "Address":"Rue de la Prulay 2 Bis 1217 Meyrin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9385679,46.8216511 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita La Broye",
+    "Address":"Grand-Rue 26 1530 Payerne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6335444,46.5217693 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita La Palud",
+    "Address":"Place de la Palud 23 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5816545,46.5378403 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Les Arcades",
+    "Address":"Rue du Midi 10 1020 Renens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1466281,46.2040878 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Malbuisson",
+    "Address":"Galerie Jean Malbuisson 15 1204 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1430846,46.2091695 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Métro -Shopping",
+    "Address":"Rue du Mont-Blanc 30 1201 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6119043,46.5167721 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Mont d´Or",
+    "Address":"Avenue de cour 110 1007 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9105885,46.4308399 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Montreux",
+    "Address":"Avenue du Casino 53 1820 Montreux"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4983931,46.508898 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Morges",
+    "Address":"Grand Rue 69 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0658652,46.7685914 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Neyruz",
+    "Address":"Place de la gare 8 1740 Neyruz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6543956,46.5134574 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Perraudettaz",
+    "Address":"Avenue de Lavaux 6 1009 Pully"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.118791,46.1904484 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Petit Lancy",
+    "Address":"Route de Chancy 28 1213 Petit-Lancy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9979043,47.1527157 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Pilloud",
+    "Address":"Rue Francillon 15 2610 Saint-Imier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1503254,46.1957292 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Place Claparède",
+    "Address":"Rue Emile Yung 1 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1433541,46.1966292 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Plainpalais",
+    "Address":"Rue de Carouge 13 1205 Genève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0740697,47.4164934 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Porrentruy",
+    "Address":"rue des Malvoisins 1 2900 Porrentruy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6321506,46.5201128 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Portes St-François",
+    "Address":"Porte St François 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9558729,47.0043233 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Portes-Rouges",
+    "Address":"Avenue Portes-Rouges 46 2009 Neuchâtel 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7499646,47.057301 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Poste",
+    "Address":"Rue du Bournot 17 2400 Le Locle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3477716,47.3647966 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Pré-Guillaume",
+    "Address":"Rue de l´Avenir 3 2800 Delémont"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6598743,46.5104182 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Pulliérane",
+    "Address":"Rue de la Poste 26 1009 Pully"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.948675,46.2526446 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita RABOUD",
+    "Address":"Rue du Midi 2 1870 Monthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9288267,46.9919605 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Seyon",
+    "Address":"Rue du Seyon 14 2001 Neuchâtel 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1727354,46.8109711 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita St Barthélemy",
+    "Address":"Route de Tavel 2 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6302178,46.5224156 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita St-Laurent",
+    "Address":"Rue Haldimand 14 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0997094,47.2227959 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Tramelan",
+    "Address":"Grand-Rue 153 2720 Tramelan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9292836,46.9909663 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Tripet",
+    "Address":"Rue du Seyon 8 2000 Neuchâtel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2037492,46.1929157 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Tronchet",
+    "Address":"Avenue Tronchet 2 1226 Thônex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2238196,46.0969007 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Verbier",
+    "Address":"Immeuble les Arcades 1936 Verbier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3533351,46.2270208 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Amavita Zimmermann",
+    "Address":"GaleniCare SA 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.0966975,46.203553 ]
+    },
+    "properties": {
+    "Name":"Pharmacie du Lignon / Amavita",
+    "Address":"Centre commercialPlace du Lignon 19 1219 Le Lignon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3798315,47.4298908 ]
+    },
+    "properties": {
+    "Name":"St. Jakob Apotheke (Galenicare)",
+    "Address":" St. Jakob-Strasse 38 9000 St. Gallen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3088853,47.476105 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Bahnhof Baden",
+    "Address":"Bahnhofplatz 7 5401 Baden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5886932,47.5545953 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Barfüsser",
+    "Address":"Barfüsserplatz 14 4051 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5599655,47.3679797 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Carmen",
+    "Address":"Asylstrasse 58 8032 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6848332,47.4289156 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Effi-Märt",
+    "Address":"Märtplatz 5 8307 Illnau-Effretikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5625754,47.4113785 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Eulen",
+    "Address":"Wallisellenstrasse 333 8050 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6410612,47.3736797 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Fällanden",
+    "Address":"Unterdorfstrasse 2a 8117 Fällanden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5817139,47.4524554 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Gerbegasse",
+    "Address":"Gerbegasse 10 8302 kloten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5862673,47.3586766 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Gesundheits Forum Witikon",
+    "Address":"Witikonerstrasse 299 8053 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4656953,47.4750475 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Goldach",
+    "Address":"Hauptstrasse 6 9403 Goldach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5488287,47.3638757 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Kreuz",
+    "Address":"Seefeldstrasse 18 8008 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5389338,47.2890565 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Langnau",
+    "Address":"Vordere Grundstrasse 4 8135 Langnau am Albis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5394247,47.4141377 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Max-Bill-Platz",
+    "Address":"Max Bill-Platz 9 8050 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1227072,46.9300318 ]
+    },
+    "properties": {
+    "Name":"Benu Apotheke Murten",
+    "Address":"Bernstr. 18 3280 Murten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.272073,47.350236 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Rex",
+    "Address":"Alte Bahnhofstrasse 1 5610 Wohlen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7110422,47.4914439 ]
+    },
+    "properties": {
+    "Name":"BENU Apotheke Schöntal",
+    "Address":"Agnesstrasse 43 8406 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3096942,47.0500299 ]
+    },
+    "properties": {
+    "Name":"BENU Bahnhof Luzern",
+    "Address":"Railcity 6003 Luzern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.19207,46.8469871 ]
+    },
+    "properties": {
+    "Name":"Benu Düdingen",
+    "Address":"Käsereistrasse 3 3186 Düdingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9654484,46.0125244 ]
+    },
+    "properties": {
+    "Name":"BENU Farmacia Santa Teresa",
+    "Address":"via la Santa 37 6962 Viganello"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8493801,47.1135845 ]
+    },
+    "properties": {
+    "Name":"Benu Huttwil",
+    "Address":"Marktgasse 10 4950 Huttwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4480177,46.2809865 ]
+    },
+    "properties": {
+    "Name":"Benu Pharmacie Lens",
+    "Address":"Rue Principale 29 1978 Lens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8808051,46.2936662 ]
+    },
+    "properties": {
+    "Name":"Benu Visp",
+    "Address":"Bahnhofplatz 3930 Visp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0241197,46.1928049 ]
+    },
+    "properties": {
+    "Name":"Farmacia BENU RONDI/ Mme Arienti Emilia",
+    "Address":"Via Codeborgo 20 6500 Bellinzona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4089384,46.2777375 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Ayent Benu SA",
+    "Address":"Rte de Botyre 12 1966 Botyre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.3350069,46.5302704 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU de Bière",
+    "Address":"Le centre 1145 Bière"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8816885,46.9848415 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU de la Côte",
+    "Address":"Grand-Rue 10 2035 Corcelles-Cormondrèche"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8752341,46.9833031 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU des Sources",
+    "Address":"Rue du petit Berne 16 2035 Corcelles-Cormondrèche"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3613207,46.2306773 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Benu Dr Bonvin",
+    "Address":"av. des Mayennets 5 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.695315,46.5008867 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Benu Petite Corniche",
+    "Address":"Route de la Petite Corniche 7 1095 Lutry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1418621,46.7968274 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Beaumont Fribourg",
+    "Address":"Route de Beaumont 16 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5296156,46.2923574 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Bonvin",
+    "Address":"Avenue général Guisan 30 3960 Sierre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3070706,46.2233228 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Châteauneuf",
+    "Address":"Rue des Rottes 50 1964 Conthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6388309,46.5191602 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Etraz",
+    "Address":"Rue Etraz 12 1003 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1524548,46.8031147 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Fribourg Centre",
+    "Address":"Avenue de la Gare 10 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6333423,46.5245382 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Gamma",
+    "Address":"Place de la Riponne 10 1005 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1511057,46.802912 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Gare",
+    "Address":"Place de la Gare 1 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2617951,46.4238133 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Gland",
+    "Address":"Rue Borgeaud 3a 1196 Gland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1536871,46.8033847 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA La Galerie",
+    "Address":"Avenue de la Gare 22 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6849981,46.5023396 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Lutry",
+    "Address":"Grand-Rue 26 1095 Lutry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1523452,46.7996204 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Pérolles",
+    "Address":"Boulevard de Pérolles 23-21a 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.65926,46.51141 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Pully",
+    "Address":"Place Neuve 1009 Pully"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2387875,46.385327 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA St Jean",
+    "Address":"Avenue Perdtemps 15 1260 Nyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0575291,46.6183408 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA St Pierre",
+    "Address":"Grand-Rue 14 1630 Bulle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8571564,46.4576001 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Tour Peilz",
+    "Address":"Avenue des Alpes 66 1814 La Tour-de-Peilz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.938262,46.8215572 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Abbatiale",
+    "Address":"Grand Rue 32 1530 Payerne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6372488,46.7803235 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Bel-Air",
+    "Address":"Place Bel-Air 2 1400 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.661226,46.542901 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Biopôle",
+    "Address":"Route de la Corniche 2 1066 Epalinges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6387922,46.780101 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Bloch Capitol Yverdon",
+    "Address":"Rue du Lac 40 1400 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0999493,46.6038094 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Broc",
+    "Address":"Rue du Bourg de l´Auge 4 1636 Broc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.847376,46.8493652 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Bullet",
+    "Address":"Grand-Rue 23 1470 Estavayer-le-Lac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9489994,46.2531907 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Buttet-Crochetan",
+    "Address":"Avenue de la Gare 13 1870 Monthey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0160811,46.2505878 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Centrale",
+    "Address":"Rue Centrale 43 1880 Bex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1552799,46.8047483 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Centrale-Marché",
+    "Address":"Rue de Romont 2 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6328773,46.514656 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Closelet",
+    "Address":"Chemin du Closelet 1 1006 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1335918,46.7936281 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Cormanon",
+    "Address":"Rue du Centre 4 1752 Villars-sur-Glâne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6401776,46.5853974 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA de Cugy",
+    "Address":"Route de Bottens 1 1053 Cugy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7416527,46.8007393 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA du Vieux-Collège",
+    "Address":"Rue de l´ancien collège 1 1462 Yvonand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6464314,46.5325531 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Etoile",
+    "Address":"Place de la Sallaz 3 1010 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5812898,46.9021708 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Fleurier",
+    "Address":"Grand-Rue 21 2114 Fleurier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0758825,46.6003091 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Benu SA La Tour de Trême",
+    "Address":"Centre La Tour Rte Pra-Riond 2 1635 La Tour de Trême"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0076371,46.3416249 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Leysin",
+    "Address":"Avenue Rollier 1854 Leysin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1614747,46.7758411 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Marly Nouvelles Galeries",
+    "Address":"Centre Migros 1723 Marly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0880231,46.7807064 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Matran",
+    "Address":"Centre Commercial Coop 1753 Matran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9306393,46.9912083 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Neuchâtel",
+    "Address":"Angle Saint-Maurice 2 / Rue du Concert 2000 Neuchâtel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.5319134,46.7244774 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Orbe",
+    "Address":"Grand Rue 3 1350 Orbe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0770939,46.1035184 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Benu SA Pharmacie de la Poste",
+    "Address":"Rue de la Poste 3 1920 Martigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3596396,46.235786 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Pralong",
+    "Address":"Avenue de Ritz 31 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0766325,46.1122702 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Quartz",
+    "Address":"Avenue de Fully 63 1920 Martigny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.501146,46.8227434 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Sainte-Croix",
+    "Address":"Rue Neuve 8 A 1450 Sainte-Croix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1733454,46.8085571 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Schoenberg",
+    "Address":"Route Mon-Repos 5C 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0569973,46.6178533 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Serpent",
+    "Address":"Grand-Rue 3 1630 Bulle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6159172,46.527815 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA St-Paul",
+    "Address":"Avenue d´Echallens 63 1004 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.606735,46.5300486 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA St-Paul",
+    "Address":"Chemin des Chardonnerets 9 1008 Prilly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.4996605,46.510195 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Tavil Chatton",
+    "Address":"Grand-Rue 11 1110 Morges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3841675,46.231418 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Tourbillon",
+    "Address":"Rue du Grand Champsec 30 1950 Sion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8478012,46.4588406 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Trois Couronnes",
+    "Address":"Rue d´Italie 58 1800 Vevey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6415689,46.7769785 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Valentin",
+    "Address":"Rue du Valentin 18 1400 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6494748,46.7663835 ]
+    },
+    "properties": {
+    "Name":"Pharmacie BENU SA Yverdon Sud",
+    "Address":"Route de Lausanne 10 1400 Yverdon-les-Bains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9049385,46.5238095 ]
+    },
+    "properties": {
+    "Name":"Pharmacie Châtel-St-Denis Benu SA",
+    "Address":"Centre Commercial Migros Rte de Montreux 56 1618 Châtel-Saint-Denis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4834911,46.3122581 ]
+    },
+    "properties": {
+    "Name":"Pharmacie des Alpes",
+    "Address":"Avenue de la Gare 8 3963 Crans-Montana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6322658,46.5320681 ]
+    },
+    "properties": {
+    "Name":"Pharmacies BENU SA Bellevaux",
+    "Address":"Route Aloys-Fauquez 28 1018 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1726148,46.7449755 ]
+    },
+    "properties": {
+    "Name":"Pharmacies BENU SA Le Mouret",
+    "Address":"Route du Pafuet 1 1724 Le Mouret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6309822,46.5282832 ]
+    },
+    "properties": {
+    "Name":"Pharmacies BENU SA Pontaise",
+    "Address":"Rue du Valentin 68 1004 Lausanne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0771647,47.4180499 ]
+    },
+    "properties": {
+    "Name":"Pharmacies BENU SA / Desboeufs",
+    "Address":"Rue des Tanneurs 7 2900 Porrentruy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1480678,46.8100242 ]
+    },
+    "properties": {
+    "Name":"Pharmacies BENU Ste-Thérèse",
+    "Address":"Route Ste-Thérèse 2a 1700 Fribourg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5243731,46.8551109 ]
+    },
+    "properties": {
+    "Name":"Apollo Apotheke",
+    "Address":"Badusstrasse 10 7000 Chur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5652506,46.9266953 ]
+    },
+    "properties": {
+    "Name":"Apotheke DB Worb Im Migros-Zentrum",
+    "Address":"Richigenstrasse 1 3076 Worb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2868271,46.4737549 ]
+    },
+    "properties": {
+    "Name":"Apotheke Dr. Kropf",
+    "Address":"Promenade 44 3780 Gstaad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6229191,46.7397716 ]
+    },
+    "properties": {
+    "Name":"Apotheke Drogerie Strättligen",
+    "Address":"Schulstrasse 27 3600 Thun"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6659409,47.7213101 ]
+    },
+    "properties": {
+    "Name":"Apotheke Herblingermarkt",
+    "Address":"Stüdliackerstrasse 10 8207 Schaffhausen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4443464,46.9483212 ]
+    },
+    "properties": {
+    "Name":"Apotheke Hörning",
+    "Address":"Marktgasse 58 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0524169,47.3918732 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke AG",
+    "Address":"Bahnhofplatz 3D 5000 Aarau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7232865,47.4994672 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke AG Winterthur",
+    "Address":"Bahnhofplatz 5 8400 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5904944,47.5473565 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke Drogerie AG",
+    "Address":"Centralbahnstrasse 20 4051 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5602121,46.8732252 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke Münsigen",
+    "Address":"Bahnhofplatz 5 3110 Münsingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5442021,47.4114795 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke Oerlikon",
+    "Address":"Hofwiesenstrasse 369 8050 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6230053,47.0593546 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke Zbinden AG",
+    "Address":"Bahnhofstrasse 13 3400 Burgdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4404128,46.9476485 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke-Bern",
+    "Address":"Im Hauptbahnhof 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8515638,46.6825737 ]
+    },
+    "properties": {
+    "Name":"Bahnhof Apotheke-Interlaken",
+    "Address":"Bahnhofstrasse 28 3800 Interlaken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7929043,47.3196094 ]
+    },
+    "properties": {
+    "Name":"Bahnhof-Apotheke Wetzikon AG",
+    "Address":"Bahnhofstrasse 16 8620 Wetzikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5479757,47.4848891 ]
+    },
+    "properties": {
+    "Name":"Blauen Apotheke",
+    "Address":"Therwilerstrasse 11 4107 Ettingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4541487,46.9605247 ]
+    },
+    "properties": {
+    "Name":"Breitfeld Apotheke AG",
+    "Address":"Scheibenstrasse 18 3014 Berne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5630937,46.8753212 ]
+    },
+    "properties": {
+    "Name":"Dorfplatz Apotheke Münsingen",
+    "Address":"Dorfplatz 2 3110 Münsingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5123654,47.3622918 ]
+    },
+    "properties": {
+    "Name":"Dr. Bähler Dropa AG",
+    "Address":"Binzstrasse 38 8045 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.139067,47.4361447 ]
+    },
+    "properties": {
+    "Name":"Drogerie Peterer",
+    "Address":"Wattstrasse 1 9240 Uzwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5557672,47.3697741 ]
+    },
+    "properties": {
+    "Name":"DROPA Apotheke & Post Hottingen",
+    "Address":"Freiestrasse 55 8032 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4415182,46.9489523 ]
+    },
+    "properties": {
+    "Name":"DROPA Apotheke AG Bern",
+    "Address":"Neuengasse 41 3011 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.720619,47.3509356 ]
+    },
+    "properties": {
+    "Name":"DROPA Apotheke Brunnen",
+    "Address":"Brunnenstrasse 9 8610 Uster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.869869,46.6899671 ]
+    },
+    "properties": {
+    "Name":"Dropa Apotheke Interlaken Ost AG",
+    "Address":"Untere Bönigstrasse 12 3800 Interlaken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5015278,47.4205877 ]
+    },
+    "properties": {
+    "Name":"DROPA Apotheke Laufen",
+    "Address":"Bahnhofstrasse 11 4242 Laufen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6245387,47.4097736 ]
+    },
+    "properties": {
+    "Name":"Dropa Cremer AG",
+    "Address":"Balgacherstrasse 203 9435 Heerbrugg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.8202828,47.2289929 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Apotheke",
+    "Address":"Zürcherstrasse 2 8640 Rapperswil (SG)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4301171,47.5112242 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Apotheke Arbon",
+    "Address":"St. Gallerstrasse 15/17 9320 Arbon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6041013,47.5390977 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Dreispitz",
+    "Address":"Münchensteinerstrasse 200 4053 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5922124,47.5435532 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Gundelitor",
+    "Address":"Güterstr. 180 4053 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.715215,47.3496757 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Illuster",
+    "Address":"Einkaufszentrum Illuster 8610 Uster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5081542,47.4202104 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Im Böden",
+    "Address":"In Böden 174 8046 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5315667,47.3850863 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Limmatplatz",
+    "Address":"Limmatplatz 7 8005 Zürich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3581639,47.0935389 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Apotheke Mall of Switzerland",
+    "Address":"Ebisquare-Strasse 1 Mall of Switzerland 6030 Ebikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7200002,47.5186578 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Rosenberg",
+    "Address":"Schaffhauserstrasse 152 8400 Winterthur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7254928,47.5022963 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke Schönthal",
+    "Address":"Mühlerainstrasse 19 4414 Füllinsdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9429472,47.2917967 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Apotheke Zofingen",
+    "Address":"Spitalgasse 1 4800 Zofingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8210428,46.7936562 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Apotheke-Davos Platz",
+    "Address":"Geschäftshaus Rätia Promenade 40 7270 Davos Platz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.614778,46.7447598 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Apotheke-Thun",
+    "Address":"Talackerstrasse 62 3604 Thun"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4067577,47.3334747 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Appenzell",
+    "Address":"Zielstrasse 13 9050 Appenzell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3966523,47.1937676 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Arnold",
+    "Address":"Marktplatz 14 2540 Grenchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3080365,47.4763822 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Baden",
+    "Address":"Metro-Shop 5400 Baden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.241101,47.4923817 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Bischofszell AG",
+    "Address":"Poststrasse 12 9220 Bischofszell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3408568,47.0811001 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Diener",
+    "Address":"Zentralstrasse 16 6030 Ebikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6472967,47.5257429 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Dietschi",
+    "Address":"Hauptstrasse 58 4132 Muttenz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.498641,46.8933405 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Fischer",
+    "Address":"Dorfstrasse 5 3123 Belp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3197452,46.890195 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Flamatt",
+    "Address":"Bernstrasse 12 3175 Flamatt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8434645,47.1139536 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Fries",
+    "Address":"Bahnhofstrasse 37 4950 Huttwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5443633,46.8978342 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Habegger-Rubigen",
+    "Address":"Thunstrasse 28 3113 Rubigen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4504741,46.9285612 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Habegger-Wabern",
+    "Address":"Seftigenstrasse 240 3084 Wabern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0362352,46.754542 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Haslebacher GmbH",
+    "Address":"Hauptstrasse 131 3855 Brienz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8520932,46.6816643 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Interlaken",
+    "Address":"Rugenparkstrasse1 3800 Interlaken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.288675,47.168774 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Käch",
+    "Address":"Walter und Karin Käch AG 6206 Neuenkirch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2885523,47.16879 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Käch Hochdorf",
+    "Address":"Bellevuestrasse 6 6280 Hochdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5811429,47.0887436 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Kirchberg",
+    "Address":"Solothurnstrasse 17A 3422 Kirchberg BE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8819714,46.8673218 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Klosters",
+    "Address":"Gotschnastrasse 8 7250 Klosters"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5124905,47.2185203 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Langendorf",
+    "Address":"Fabrikstrasse 6 4513 Langendorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.787702,46.9398058 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Langnau im Emmental",
+    "Address":"Migros Einkaufszentrum 3550 Langnau im Emmental"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3058872,47.0742733 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Lyss",
+    "Address":"Hirschenplatz 10 3250 Lyss"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6954113,47.3163575 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Marbet",
+    "Address":"Goldgasse 9 4710 Balsthal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7913382,47.2120226 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Meyer",
+    "Address":"Melchnaustrasse 1 4900 Langenthal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2724788,47.34936 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Moser",
+    "Address":"Bahnhofstrasse 7 5610 Wohlen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1769833,47.3878543 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Müli Märt",
+    "Address":"Bahnhofstrasse 5 5600 Lenzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.070593,47.056051 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Niederberger",
+    "Address":"Einkaufszentrum Dorfmärt 6110 Wolhusen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4399001,47.0816646 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Niklaus",
+    "Address":"Bahnhofstrasse 7 6403 Küssnacht am Rigi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5689702,47.3234725 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Oberriet",
+    "Address":"Bahnhofstrasse 2 9463 Oberriet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1873959,47.4138497 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Peterer",
+    "Address":"Bahnhofstrasse 5 9230 Flawil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7931435,47.2005882 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Pfäffikon",
+    "Address":"Seedamm-Center 8808 Pfäffikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1816799,47.2578265 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Reinach AG",
+    "Address":"Sandgasse 6 5734 Reinach AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3742364,47.0467715 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Rogger",
+    "Address":"Zentrum MeggenDorfplatz 6 6045 Meggen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3672477,47.5643646 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Romanshorn",
+    "Address":"Bahnhofstrasse 54a Einkaufszentrum Hubzelg 8590 Romanshorn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.702888,47.1859097 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Roth Herzogenbuchsee",
+    "Address":"Bernstrasse 39 3360 Herzogenbuchsee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6552531,47.2337438 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Roth Wangen a.A.",
+    "Address":"Vorstadt 16 3380 Wangen an der Aare"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.1869483,46.7278162 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Schumacher",
+    "Address":"Bahnhofstrasse 25 3860 Meiringen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7187632,47.2900484 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Siegrist",
+    "Address":"Hauptstrasse 34 4702 Oensingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0756314,47.2367508 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Triengen",
+    "Address":"Kantonsstrasse 70 6234 Triengen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5387567,47.2045789 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie Tschumi",
+    "Address":"Dornacherhof 11 4500 Solothurn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.0457322,47.3620581 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Unterentfelden",
+    "Address":"Binzmattweg 8 5035 Unterentfelden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8493078,46.6848849 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Unterseen",
+    "Address":"Bahnhofstrasse 25 3800 Unterseen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4222555,47.3848834 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Urdorf",
+    "Address":"Birmensdorferstrasse 79 8902 Urdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0864648,47.3031095 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Wattwil AG",
+    "Address":"Drogerie Coop Rössliplatz 9630 Wattwil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.4521766,46.8368841 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Welti",
+    "Address":"gassa Sutò 3 7013 Domat/Ems"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6297981,47.4074131 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Widnau AG",
+    "Address":"Bahnhofstrasse 4 9443 Widnau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.045373,47.4646192 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Wil",
+    "Address":"Obere Bahnhofstrasse 39 9500 Wil"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.900403,47.3497917 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie Wyss",
+    "Address":"Solothurnerstrasse 3 4600 Olten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4618382,47.1817395 ]
+    },
+    "properties": {
+    "Name":"DROPA Drogerie-Cham",
+    "Address":"Zugerstrasse 17 6330 Cham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6333495,46.7759923 ]
+    },
+    "properties": {
+    "Name":"Dropa Drogerie-Steffisburg",
+    "Address":"DROPA Drogerie Unterdorfstrasse 50 3612 Steffisburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.070952,47.0405588 ]
+    },
+    "properties": {
+    "Name":"DROPA Glarus Betriebs AG",
+    "Address":"Schweizerhofstrasse 6 8750 Glarus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5629503,46.8747861 ]
+    },
+    "properties": {
+    "Name":"Dropa Münsigen AG (eh. Aare Apotheke)",
+    "Address":"Dorfplatz 7 3110 Münsingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7244912,47.2405525 ]
+    },
+    "properties": {
+    "Name":"DROPA Stäfa AG",
+    "Address":"Goethestrasse 18/20 8712 Stäfa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2729148,47.3495593 ]
+    },
+    "properties": {
+    "Name":"Dropa Wohlen AG",
+    "Address":"Bahnhofstrasse 5 5610 Wohlen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5891708,47.5567217 ]
+    },
+    "properties": {
+    "Name":"Goldene Engel Apotheke AG",
+    "Address":"Freie Str. 20 4001 Basel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4811397,46.9395571 ]
+    },
+    "properties": {
+    "Name":"Jupiter Apotheke",
+    "Address":"Jupiterstrasse 15 3015 Berne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4545861,46.9589507 ]
+    },
+    "properties": {
+    "Name":"Jura Apotheke-Bern",
+    "Address":"Breitenrainplatz 36 3014 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.427289,46.9479909 ]
+    },
+    "properties": {
+    "Name":"Linden Apotheke",
+    "Address":"Freiburgstrasse 2 3008 Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5203256,46.8569775 ]
+    },
+    "properties": {
+    "Name":"Montalin Apotheke",
+    "Address":"Ringstrasse 88 7000 Chur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3664308,47.3626669 ]
+    },
+    "properties": {
+    "Name":"Mutschellen Apotheke",
+    "Address":"Welschloo 220 8965 Berikon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4841961,46.9321508 ]
+    },
+    "properties": {
+    "Name":"Neue Apotheke Muri AG",
+    "Address":"Thunstrasse 68 3074 Muri bei Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9002099,47.3498636 ]
+    },
+    "properties": {
+    "Name":"Praxis Thalmann Rita",
+    "Address":"Solothurnerstrasse 7 4600 Olten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.7898734,47.2132805 ]
+    },
+    "properties": {
+    "Name":"Turm Apotheke",
+    "Address":"Jurastrasse 18 4900 Langenthal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3740809,46.9458003 ]
+    },
+    "properties": {
+    "Name":"Westside Apotheke AG",
+    "Address":"Gilberte de Courgenay Platz 4 3027 Berne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6210236,46.8753901 ]
+    },
+    "properties": {
+    "Name":"Zentrum Apotheke",
+    "Address":"Thunstrasse 21 3510 Konolfingen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5153045,47.1735054 ]
+    },
+    "properties": {
+    "Name":"Zug Apotheke",
+    "Address":"Im Bahnhof Zug Bahnhofplatz 6300 Zug"
+    }
+  }
+]
+}
